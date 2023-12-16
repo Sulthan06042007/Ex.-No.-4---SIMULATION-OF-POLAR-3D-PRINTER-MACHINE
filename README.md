@@ -32,7 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![image](https://github.com/Sulthan06042007/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144980103/f17f56de-839e-4033-a93d-3911bbeab0af)
+![image](https://github.com/Sulthan06042007/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144980103/060c0219-b112-476b-a856-754ccccd2f10)
+
 
 
 ### Name:MOHAMED SULTHAN A
